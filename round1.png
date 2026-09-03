@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#eef6ff"/>
+    <stop offset="1" stop-color="#f8f0ff"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="760" rx="36" fill="url(#g)"/>
+<text x="70" y="105" font-family="Arial, sans-serif" font-weight="700" font-size="54" fill="#10254d">第2回｜生成AIとの向き合い方</text>
+<text x="70" y="165" font-family="Arial, sans-serif" font-size="28" fill="#53627a">商業利用チェックリストを自分のWeb/App制作に適用</text>
+<g font-family="Arial, sans-serif" font-size="30" fill="#1b2942">
+  <rect x="70" y="220" width="1060" height="70" rx="18" fill="#fff"/>
+  <text x="100" y="266">✓ 契約・ガイドラインでAI使用が禁止されていないか</text>
+  <rect x="70" y="305" width="1060" height="70" rx="18" fill="#fff"/>
+  <text x="100" y="351">✓ モデルの商用利用ライセンスを確認したか</text>
+  <rect x="70" y="390" width="1060" height="70" rx="18" fill="#fff"/>
+  <text x="100" y="436">✓ 生成物の権利・既存作品との類似を確認したか</text>
+  <rect x="70" y="475" width="1060" height="70" rx="18" fill="#fff"/>
+  <text x="100" y="521">✓ 機密情報や未公開データをクラウドへ送っていないか</text>
+  <rect x="70" y="560" width="1060" height="70" rx="18" fill="#fff"/>
+  <text x="100" y="606">✓ ツール・モデル・バージョン・プロンプトを記録したか</text>
+</g>
+<text x="70" y="690" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#6146b5">AIを使う技術だけでなく、説明責任と再現性も制作の一部。</text>
+</svg>
