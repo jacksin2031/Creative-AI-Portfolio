@@ -2,10 +2,6 @@
 
 更新版の公開ポートフォリオです。第1回〜第8回の作品を掲載しています。
 
-5. 数分後、以下で公開されます。
-
-`https://jacksin2031.github.io/Creative-AI-Portfolio/`
-
 ## 第7回の提出物
 
 - URL: `https://jacksin2031.github.io/Creative-AI-Portfolio/`
